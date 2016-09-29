@@ -17,6 +17,9 @@
 	(block (color red) (size 18) (place heap))
 	(block (color yellow) (size 15) (place heap)))
 
+
+
+
 (defrule begin
 	(initial-fact) 
 =>
